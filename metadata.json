@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio APK Builder",
+  "description": "Convert Google AI Studio generated projects into Android APK and AAB files automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
